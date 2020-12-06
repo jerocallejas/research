@@ -1,6 +1,6 @@
 ---
 title: Jeronimo Callejas
-role: PdD Candidate in Resource Economics University of Massachusetts Amherst
+role: Ph.D. Candidate in Resource Economics University of Massachusetts Amherst
 avatar_filename: foto-jeronimo-callejas-2-.jpg
 bio: My research interests include Empirical Industrial Organization,
   Econometrics, Regulation and Antitrust.
@@ -18,6 +18,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - link: acallejas@umass.edu
+    icon_pack: ai
+    icon: mail
 organizations:
   - name: University of Massachusetts at Amherst
     url: https://www.umass.edu/resec/graduate-students
