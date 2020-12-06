@@ -6,21 +6,12 @@ bio: My research interests include Empirical Industrial Organization,
   Econometrics, Regulation and Antitrust.
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - link: acallejas@umass.edu
     icon_pack: ai
     icon: mail
+  - link: https://www.linkedin.com/in/jeronimo-callejas-2850158b/
+    icon_pack: ai
+    icon: Linkedin
 organizations:
   - name: University of Massachusetts at Amherst
     url: https://www.umass.edu/resec/graduate-students
