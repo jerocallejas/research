@@ -19,27 +19,28 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of Massachusetts at Amherst
+    url: https://www.umass.edu/resec/graduate-students
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Ph.D. (expected 2021) Resource Economics
+      institution: University of Massachusetts Amherst
+      year: 2015
+    - course: M.S. Competition Policy and Market Regulation
+      institution: Barcelona Graduate School of Economics
+      year: 2019
+    - course: Certificate in Statistical and Computational Data Science
+      institution: University of Massachusetts Amherst
+      year: 2020
+    - course: B.A. in Economics
+      institution: Pontificia Universidad Catolica del Ecuador
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+email: acallejas@umass.edu
 superuser: true
 user_groups:
-  - Researchers
-  - Visitors
+  - Graduate Student
 highlight_name: false
 ---
+**Hello.**
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a 5th year PhD student in the Resourse Economics Deparment at the University of Massachusetts Amherst. I am originally from Ambato Ecuador. I have a B.A. in Economics for the Pontificia Universidad Catolica del Ecuador and a MS in  Economic Analysis from the Barcelona Graduate School of Economics. My researhc interest includes Quantitative Industrial Organization, Econometrics, Regulation and Antitrust.
