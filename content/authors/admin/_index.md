@@ -10,8 +10,8 @@ social:
     icon_pack: ai
     icon: mail
   - link: https://www.linkedin.com/in/jeronimo-callejas-2850158b/
-    icon_pack: ai
-    icon: Linkedin
+    icon_pack = "fab"
+    icon: "linkedin-in"
 organizations:
   - name: University of Massachusetts at Amherst
     url: https://www.umass.edu/resec/graduate-students
