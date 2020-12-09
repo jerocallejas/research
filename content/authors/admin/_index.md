@@ -35,6 +35,4 @@ user_groups:
   - Graduate Student
 highlight_name: false
 ---
-**Hello.**
-
 I am a Ph.D. student in the Resource Economics Department at the University of Massachusetts Amherst. I am originally from Ambato Ecuador. I have a B.A. in Economics from the Pontificia Universidad Catolica del Ecuador and an M.S. in  Economic Analysis from the Barcelona Graduate School of Economics. My research interest includes Quantitative Industrial Organization, Econometrics, Regulation, and Antitrust.
