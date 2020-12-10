@@ -74,9 +74,15 @@ highlight_name: false
 user_groups:
 - Principal Investigators
 ---
+<<<<<<< HEAD
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+=======
+**Hello.**
+
+I am a Ph.D. student in the Resource Economics Department at the University of Massachusetts Amherst. I am originally from Ambato Ecuador. I have a B.A. in Economics from the Pontificia Universidad Catolica del Ecuador and an M.S. in  Economic Analysis from the Barcelona Graduate School of Economics. My research interest includes Quantitative Industrial Organization, Econometrics, Regulation, and Antitrust.
+>>>>>>> parent of 34b6f8e... Update _index.md
