@@ -10,8 +10,16 @@ social:
     icon_pack: ai
     icon: mail
   - link: https://www.linkedin.com/in/jeronimo-callejas-2850158b/
-    icon_pack = "fab"
-    icon: "linkedin-in"
+    icon_pack: fab
+    icon: linkedin
+    
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
+
 organizations:
   - name: University of Massachusetts at Amherst
     url: https://www.umass.edu/resec/graduate-students
