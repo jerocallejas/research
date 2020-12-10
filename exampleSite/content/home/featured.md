@@ -13,7 +13,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: ""
+subtitle: "Welfare Effects of Public Procurement of Medicines: Evidence from Ecuador"
 
 content:
   # Page type to display. E.g. post, talk, publication...
