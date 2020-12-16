@@ -26,7 +26,7 @@ date_format: Jan 2006
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
 - company: Aleph Omega
-  company_url: "https://www.alephomega.com.ec/"
+  company_url: https://www.alephomega.com.ec/
   date_end: ""
   date_start: "2014-09-01"
   description: Economic analyses in antitrust litigation
@@ -36,7 +36,7 @@ experience:
   location: Quito - Ecuador
   title: Consultant
 - company: Telefonica Ecuador
-  company_url: "https://www.telefonica.com.ec/"
+  company_url: https://www.telefonica.com.ec/
   date_end: "2014-10-01"
   date_start: "2016-07-30"
   description: Provide economic imputs to advance the company's regulatory agenda
