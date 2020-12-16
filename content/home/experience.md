@@ -33,13 +33,13 @@ experience:
     Responsibilities include:
     * Economic analysing
     * Economic modelling
-  location: Quito - Ecuador
+  location: Quito, Ecuador
   title: Consultant
 - company: Telefonica Ecuador
   company_url: https://www.telefonica.com.ec/
   date_end: "2014-10-01"
   date_start: "2016-07-30"
   description: Provide economic imputs to advance the company's regulatory agenda
-  location: Quito Ecuador
+  location: Quito, Ecuador
   title: Regulatory specialist
 ---
