@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper analyses the impact of trade policies that seek to improve domestic production on welfare. I estimate how an ad-valorem tariff over handset components introduced by the Indian Government affects a firm's decision over price, production location, and product set. The preliminary estimates suggest that the analyzed trade policy introduced succeeds in motivating firms to switch to local production. As a consequence of this, prices increase, and the number of available products decreases. In combination with a decrease in some firms' profits, the introduction of the policy diminishes total welfare.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
 - Source Themes
@@ -29,8 +29,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url: ""
+url_pdf: ""
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
